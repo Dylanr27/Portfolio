@@ -1,0 +1,50 @@
+body {
+  text-align: center;
+  margin-right: 25%;
+  margin-left: 25%;
+  text-shadow: 0px 0px 2px whitesmoke;
+  line-height: 1.4;
+  color: #ffffff;
+  background-image: url("https://c1.wallpaperflare.com/preview/544/534/376/background-green-grass-lawn.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: Georgia, serif;
+  letter-spacing: 2px;
+}
+img {
+  border-radius: 100%;
+  box-shadow: 0px 0px 10px whitesmoke;
+}
+.title {
+  text-shadow: #474747 3px 5px 2px;
+  font-weight: lighter;
+  font-variant: small-caps;
+  margin-bottom: 30px;
+}
+h2,
+h3 {
+  font-size: 25px;
+  font-weight: lighter;
+  font-variant: small-caps;
+  text-shadow: #474747 3px 5px 2px;
+}
+
+p {
+  height: 120px;
+  border-width: 12px;
+  border-style: outset;
+  border-color: #4c7051;
+  background: rgba(0, 0, 0, 75%);
+  border-radius: 0px 20px 0px 20px;
+  overflow: hidden;
+  padding: 5px;
+}
+a {
+  font-style: italic;
+  font-weight: bold;
+  color: rgb(73, 7, 134);
+}
+p:hover {
+  overflow: scroll;
+  overflow-x: hidden;
+}
