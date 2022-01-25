@@ -5,18 +5,19 @@ body {
   text-shadow: 0px 0px 2px whitesmoke;
   line-height: 1.4;
   color: #ffffff;
-  background-image: url("https://c1.wallpaperflare.com/preview/544/534/376/background-green-grass-lawn.jpg");
+  background-image: url(https://images.pexels.com/photos/21008/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: cover;
   font-family: Georgia, serif;
   letter-spacing: 2px;
 }
 img {
+  border: 3px solid black;
   border-radius: 100%;
   box-shadow: 0px 0px 10px whitesmoke;
 }
 .title {
-  text-shadow: #474747 3px 5px 2px;
+  text-shadow: #0a0a0a 3px 5px 2px;
   font-weight: lighter;
   font-variant: small-caps;
   margin-bottom: 30px;
@@ -26,14 +27,14 @@ h3 {
   font-size: 25px;
   font-weight: lighter;
   font-variant: small-caps;
-  text-shadow: #474747 3px 5px 2px;
+  text-shadow: #0c0c0c 3px 5px 2px;
 }
 
 p {
   height: 120px;
   border-width: 12px;
   border-style: outset;
-  border-color: #4c7051;
+  border-color: #4c705169;
   background: rgba(0, 0, 0, 75%);
   border-radius: 0px 20px 0px 20px;
   overflow: hidden;
